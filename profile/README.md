@@ -6,4 +6,4 @@ Esta organização é uma representação da Faculdade Virtual do Estado São Pa
 
 ## 📁 Repositórios 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UNIVESP-Universidade-Virtual-de-SP&repo=Algoritmos-e-Programacao-I-II&theme=github_dark)](https://github.com/UNIVESP-Universidade-Virtual-de-SP/Direitos-dos-Alunos)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UNIVESP-Universidade-Virtual-de-SP&repo=Algoritmos-e-Programacao-I-II&theme=github_dark)](https://github.com/UNIVESP-Universidade-Virtual-de-SP/Algoritmos-e-Programacao-I-II)
