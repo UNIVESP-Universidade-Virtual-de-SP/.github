@@ -1,4 +1,4 @@
-# <img src="../assets/icon.png" width=1.5%> UNIVESP ![](https://komarev.com/ghpvc/?username=UNIVESP-Universidade-Virtual-de-SP&color=red)
+# <img alt="Logo Univesp" src="https://github.com/UNIVESP-Universidade-Virtual-de-SP/.github/blob/main/assets/icon.png?raw=true" width=1.5%> UNIVESP ![](https://komarev.com/ghpvc/?username=UNIVESP-Universidade-Virtual-de-SP&color=red)
 
 Esta organização é uma representação da Faculdade Virtual do Estado São Paulo, onde os estudantes desta poderão:
 
