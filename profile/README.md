@@ -6,4 +6,15 @@ Esta organização é uma representação da Faculdade Virtual do Estado São Pa
 
 ## 📁 Repositórios 
 
+<div>
+<a href="https://github.com/UNIVESP-Universidade-Virtual-de-SP/Algoritmos-e-Programacao-I-II">
+<img alt="Repositório Algoritmos-e-Programacao-I-II" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=UNIVESP-Universidade-Virtual-de-SP&repo=Algoritmos-e-Programacao-I-II&theme=github_dark">
+</a>
+
+<a href="https://github.com/UNIVESP-Universidade-Virtual-de-SP/Direitos-dos-Alunos">
+<img alt="Repositório Direitos dos Alunos" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=UNIVESP-Universidade-Virtual-de-SP&repo=Direitos-dos-Alunos&theme=github_dark">
+</a>
+</div>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UNIVESP-Universidade-Virtual-de-SP&repo=Algoritmos-e-Programacao-I-II&theme=github_dark)](https://github.com/UNIVESP-Universidade-Virtual-de-SP/Algoritmos-e-Programacao-I-II)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UNIVESP-Universidade-Virtual-de-SP&repo=Direitos-dos-Alunos&theme=github_dark)](https://github.com/UNIVESP-Universidade-Virtual-de-SP/Direitos-dos-Alunos/)
+
