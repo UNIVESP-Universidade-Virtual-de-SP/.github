@@ -1,4 +1,4 @@
-# 🏫 UNIVESP ![](https://komarev.com/ghpvc/?username=UNIVESP-Universidade-Virtual-de-SP&color=red)
+# <img src="../assets/icon.png" width=7%> UNIVESP ![](https://komarev.com/ghpvc/?username=UNIVESP-Universidade-Virtual-de-SP&color=red)
 
 Esta organização é uma representação da Faculdade Virtual do Estado São Paulo, onde os estudantes desta poderão:
 
