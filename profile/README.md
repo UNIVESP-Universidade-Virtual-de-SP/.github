@@ -10,14 +10,12 @@ A Universidade Virtual do Estado de São Paulo (UNIVESP) é uma universidade pú
 ## Propósito da Organização 📌.
 Esta organização é uma representação da Faculdade Virtual do Estado São Paulo, onde os estudantes desta poderão:
 
-- Compartilhar lições de apoio, projetos, compartilhar conhecimentos sobre direitos que os alunos posssuem.
+- Compartilhar lições de apoio, projetos, compartilhar conhecimentos sobre coisas utéis aos demais alunos.
 
-## Repositórios 🗂.
+## Websites 🗂.
 
-<div>
-<a href="https://github.com/UNIVESP-Universidade-Virtual-de-SP/Algoritmos-e-Programacao-I-II">
-<img alt="Repositório Algoritmos-e-Programacao-I-II" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=UNIVESP-Universidade-Virtual-de-SP&repo=Algoritmos-e-Programacao-I-II&theme=github_dark">
-</a>
+- [Algoritmos e Programacao I II](https://github.com/UNIVESP-Universidade-Virtual-de-SP/Algoritmos-e-Programacao-I-II)
+
 
 <a href="https://github.com/UNIVESP-Universidade-Virtual-de-SP/Direitos-dos-Alunos">
 <img alt="Repositório Direitos dos Alunos" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=UNIVESP-Universidade-Virtual-de-SP&repo=Direitos-dos-Alunos&theme=github_dark">
