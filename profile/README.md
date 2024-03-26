@@ -14,8 +14,6 @@ Esta organização é uma representação da Faculdade Virtual do Estado São Pa
 
 ## Websites 🗂.
 
-- [Algoritmos e Programacao I II](https://github.com/UNIVESP-Universidade-Virtual-de-SP/Algoritmos-e-Programacao-I-II)
+- [Beneficios-Alunos/](https://univesp-universidade-virtual-de-sp.github.io/Beneficios-Alunos/)
 
-[./Beneficios-Alunos](https://univesp-universidade-virtual-de-sp.github.io/Beneficios-Alunos/)
-
-[./Algoritmos-e-Programacao-I-II](https://univesp-universidade-virtual-de-sp.github.io/Algoritmos-e-Programacao-I-II)
+- [Algoritmos-e-Programacao-I-II/](https://univesp-universidade-virtual-de-sp.github.io/Algoritmos-e-Programacao-I-II)
