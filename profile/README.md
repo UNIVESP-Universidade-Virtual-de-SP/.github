@@ -8,9 +8,3 @@ A Universidade Virtual do Estado de São Paulo (UNIVESP) é uma universidade pú
 Esta organização é uma representação da Faculdade Virtual do Estado São Paulo, onde os estudantes desta poderão:
 
 - Compartilhar lições de apoio, projetos, compartilhar conhecimentos sobre coisas utéis aos demais alunos.
-
-## Websites 🗂.
-
-- [Beneficios-Alunos/](https://univesp-universidade-virtual-de-sp.github.io/Beneficios-Alunos/)
-
-- [Algoritmos-e-Programacao-I-II/](https://univesp-universidade-virtual-de-sp.github.io/Algoritmos-e-Programacao-I-II)
