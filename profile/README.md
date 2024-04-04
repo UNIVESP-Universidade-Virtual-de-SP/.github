@@ -7,4 +7,5 @@ A Universidade Virtual do Estado de São Paulo (UNIVESP) é uma universidade pú
 ## Propósito da Organização 📌.
 Esta organização é uma representação da Faculdade Virtual do Estado São Paulo, onde os estudantes desta poderão:
 
-- Compartilhar lições de apoio, projetos, compartilhar conhecimentos sobre coisas utéis aos demais alunos.
+- Compartilhar lições de apoio, projetos, compartilhar conhecimentos sobre coisas utéis aos demais alunos;
+- Discutir na aba [/Discussões](https://github.com/UNIVESP-Universidade-Virtual-de-SP/.github/discussions) sobre questões, e demais outros assuntos.
